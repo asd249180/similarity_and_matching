@@ -1,0 +1,15 @@
+pytorch
+torchvision
+tqdm
+dotmap
+matplotlib
+opencv-python
+pandas
+numpy
+pkbar
+torch-lucent
+weasyprint
+gitpython
+Jinja2
+torchsummary
+tabulate
